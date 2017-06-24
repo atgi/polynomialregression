@@ -1,0 +1,17 @@
+{
+  "name": "atgi/polynomialregression",
+  "description": "Composer package to calculate and chart polynomial regression. Based on the original work by Andrew Que.",
+  "authors": [
+    {
+      "name": "Aviation Technology Group",
+      "email": "opensource@aviationtechnologygroup.com"
+    }
+  ],
+  "require": {},
+  "require-dev": {},
+  "autoload": {
+    "psr-4": {
+      "ATGI\\PolynomialRegression\\": "src"
+    }
+  }
+}
